@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Predicition
+# 🚢 Titanic Survival Prediction
 
 Kaggle's iconic challenge: Predict the survival rates of Titanic passengers. Dive into my solution, unraveling the mysteries of survival.
 
